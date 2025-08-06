@@ -1,0 +1,98 @@
+{
+    "business_name": "Tech Solutions Ltd",
+    "location": "Bangalore, Karnataka",
+    "compliance_rating": 0,
+    "pan_verified": true,
+    "gstin_verified": true,
+    "udyam_verified": true,
+    "gst_filing": [
+        {
+            "period": "January 2024",
+            "filing_date": "2024-01-20",
+            "status": "Filed",
+            "amount": 250000
+        },
+        {
+            "period": "December 2023",
+            "filing_date": "2023-12-20",
+            "status": "Filed",
+            "amount": 230000
+        },
+        {
+            "period": "November 2023",
+            "filing_date": "2023-11-20",
+            "status": "Filed",
+            "amount": 240000
+        }
+    ],
+    "turnover_data": [
+        {
+            "month": "Jan",
+            "turnover": 2500000,
+            "bank_credits": 2200000
+        },
+        {
+            "month": "Feb",
+            "turnover": 2800000,
+            "bank_credits": 2500000
+        },
+        {
+            "month": "Mar",
+            "turnover": 3200000,
+            "bank_credits": 2900000
+        },
+        {
+            "month": "Apr",
+            "turnover": 3000000,
+            "bank_credits": 2700000
+        },
+        {
+            "month": "May",
+            "turnover": 3500000,
+            "bank_credits": 3200000
+        },
+        {
+            "month": "Jun",
+            "turnover": 3800000,
+            "bank_credits": 3500000
+        }
+    ],
+    "cash_flow_data": [
+        {
+            "month": "Jan",
+            "cash_in": 2500000,
+            "cash_out": 1800000,
+            "balance": 700000
+        },
+        {
+            "month": "Feb",
+            "cash_in": 2800000,
+            "cash_out": 2000000,
+            "balance": 800000
+        },
+        {
+            "month": "Mar",
+            "cash_in": 3200000,
+            "cash_out": 2200000,
+            "balance": 1000000
+        },
+        {
+            "month": "Apr",
+            "cash_in": 3000000,
+            "cash_out": 2100000,
+            "balance": 900000
+        },
+        {
+            "month": "May",
+            "cash_in": 3500000,
+            "cash_out": 2400000,
+            "balance": 1100000
+        },
+        {
+            "month": "Jun",
+            "cash_in": 3800000,
+            "cash_out": 2600000,
+            "balance": 1200000
+        }
+    ]
+}

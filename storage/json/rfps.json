@@ -1,0 +1,52 @@
+[
+  {
+    "id": "RFP001",
+    "title": "Electronic Components Supply",
+    "quantity": 5000,
+    "delivery_location": "Mumbai, Maharashtra",
+    "required_certification": "ISO 9001",
+    "deadline": "2024-02-15",
+    "buyer": "TechCorp Industries",
+    "created_at": "2024-01-10"
+  },
+  {
+    "id": "RFP002",
+    "title": "Steel Fabrication Services",
+    "quantity": 100,
+    "delivery_location": "Delhi, NCR",
+    "required_certification": "ISO 14001",
+    "deadline": "2024-02-28",
+    "buyer": "Construction Ltd",
+    "created_at": "2024-01-12"
+  },
+  {
+    "id": "RFP003",
+    "title": "Software Development Services",
+    "quantity": 1,
+    "delivery_location": "Bangalore, Karnataka",
+    "required_certification": "CMMI Level 3",
+    "deadline": "2024-03-15",
+    "buyer": "Digital Solutions Inc",
+    "created_at": "2024-01-14"
+  },
+  {
+    "id": "RFP004",
+    "title": "Textile Manufacturing",
+    "quantity": 10000,
+    "delivery_location": "Chennai, Tamil Nadu",
+    "required_certification": "GOTS Certified",
+    "deadline": "2024-02-20",
+    "buyer": "Fashion Retail Co",
+    "created_at": "2024-01-16"
+  },
+  {
+    "id": "RFP005",
+    "title": "Automotive Parts Supply",
+    "quantity": 2000,
+    "delivery_location": "Pune, Maharashtra",
+    "required_certification": "IATF 16949",
+    "deadline": "2024-03-10",
+    "buyer": "Auto Manufacturing Ltd",
+    "created_at": "2024-01-18"
+  }
+] 

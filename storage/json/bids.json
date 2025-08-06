@@ -1,0 +1,62 @@
+[
+  {
+    "id": "BID001",
+    "rfp_id": "RFP001",
+    "msme_id": "MSME001",
+    "price": 250000,
+    "delivery_time": "30 days",
+    "notes": "Can deliver in batches of 1000 units per week",
+    "fit_score": 92,
+    "created_at": "2024-01-20"
+  },
+  {
+    "id": "BID002",
+    "rfp_id": "RFP001",
+    "msme_id": "MSME003",
+    "price": 275000,
+    "delivery_time": "25 days",
+    "notes": "Premium quality components with extended warranty",
+    "fit_score": 88,
+    "created_at": "2024-01-21"
+  },
+  {
+    "id": "BID003",
+    "rfp_id": "RFP002",
+    "msme_id": "MSME002",
+    "price": 150000,
+    "delivery_time": "45 days",
+    "notes": "Custom fabrication as per specifications",
+    "fit_score": 85,
+    "created_at": "2024-01-22"
+  },
+  {
+    "id": "BID004",
+    "rfp_id": "RFP003",
+    "msme_id": "MSME003",
+    "price": 800000,
+    "delivery_time": "90 days",
+    "notes": "Full-stack development with testing and deployment",
+    "fit_score": 95,
+    "created_at": "2024-01-23"
+  },
+  {
+    "id": "BID005",
+    "rfp_id": "RFP004",
+    "msme_id": "MSME004",
+    "price": 450000,
+    "delivery_time": "60 days",
+    "notes": "Organic cotton with sustainable practices",
+    "fit_score": 78,
+    "created_at": "2024-01-24"
+  },
+  {
+    "id": "BID006",
+    "rfp_id": "RFP005",
+    "msme_id": "MSME001",
+    "price": 320000,
+    "delivery_time": "40 days",
+    "notes": "Precision engineering with quality assurance",
+    "fit_score": 90,
+    "created_at": "2024-01-25"
+  }
+] 

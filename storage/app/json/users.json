@@ -1,0 +1,5 @@
+[
+  { "email": "msme@example.com", "password": "password", "role": "msme" },
+  { "email": "lender@example.com", "password": "password", "role": "lender" },
+  { "email": "buyer@example.com", "password": "password", "role": "buyer" }
+] 

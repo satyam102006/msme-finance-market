@@ -1,0 +1,130 @@
+[
+    {
+        "id": "BID001",
+        "rfp_id": "RFP001",
+        "msme_id": "MSME001",
+        "msme_name": "Tech Solutions Ltd",
+        "proposal": "Comprehensive digital infrastructure solution with modern tech stack",
+        "budget": "₹4.8 Crores",
+        "price": 48000000,
+        "timeline": "11 months",
+        "delivery_time": "11 months",
+        "status": "Submitted",
+        "submitted_at": "2024-01-15",
+        "created_at": "2024-01-15",
+        "score": 92,
+        "fit_score": 92,
+        "notes": "Comprehensive digital infrastructure solution with modern tech stack",
+        "strengths": [
+            "Experienced team",
+            "Proven track record",
+            "Cost-effective solution"
+        ]
+    },
+    {
+        "id": "BID002",
+        "rfp_id": "RFP002",
+        "msme_id": "MSME001",
+        "msme_name": "Tech Solutions Ltd",
+        "proposal": "Full-stack e-commerce platform with advanced features",
+        "budget": "₹1.9 Crores",
+        "price": 19000000,
+        "timeline": "7 months",
+        "delivery_time": "7 months",
+        "status": "Submitted",
+        "submitted_at": "2024-01-22",
+        "created_at": "2024-01-22",
+        "score": 88,
+        "fit_score": 88,
+        "notes": "Full-stack e-commerce platform with advanced features",
+        "strengths": [
+            "Modern tech stack",
+            "Scalable architecture",
+            "Quick delivery"
+        ]
+    },
+    {
+        "id": "BID003",
+        "rfp_id": "RFP003",
+        "msme_id": "MSME001",
+        "msme_name": "Tech Solutions Ltd",
+        "proposal": "Comprehensive hospital management system with AI integration",
+        "budget": "₹2.8 Crores",
+        "price": 28000000,
+        "timeline": "9 months",
+        "delivery_time": "9 months",
+        "status": "Submitted",
+        "submitted_at": "2024-01-28",
+        "created_at": "2024-01-28",
+        "score": 95,
+        "fit_score": 95,
+        "notes": "Comprehensive hospital management system with AI integration",
+        "strengths": [
+            "Healthcare expertise",
+            "AI-powered features",
+            "Compliance ready"
+        ]
+    },
+    {
+        "id": "BID004",
+        "rfp_id": "RFP001",
+        "msme_id": "MSME001",
+        "msme_name": "Unknown MSME",
+        "proposal": "No proposal provided",
+        "budget": "₹0",
+        "price": 2000,
+        "timeline": "Not specified",
+        "delivery_time": "10 days",
+        "status": "Submitted",
+        "submitted_at": "2025-08-03",
+        "created_at": "2025-08-03",
+        "score": 89,
+        "fit_score": 89,
+        "notes": "test",
+        "strengths": [
+            "Quality service"
+        ]
+    },
+    {
+        "id": "BID005",
+        "rfp_id": "RFP004",
+        "msme_id": "MSME001",
+        "msme_name": "Tech Solutions Ltd",
+        "proposal": "Test bid for RFP004",
+        "budget": "₹10 Lakhs",
+        "price": 1000000,
+        "timeline": "10 days",
+        "delivery_time": "10 days",
+        "status": "Submitted",
+        "submitted_at": "2025-08-03",
+        "created_at": "2025-08-03",
+        "score": 90,
+        "fit_score": 90,
+        "notes": "test",
+        "strengths": [
+            "Quick delivery",
+            "Competitive pricing",
+            "Quality service"
+        ]
+    },
+    {
+        "id": "BID006",
+        "rfp_id": "RFP001",
+        "msme_id": "MSME001",
+        "msme_name": "Unknown MSME",
+        "proposal": "No proposal provided",
+        "budget": "₹0",
+        "price": 1000000,
+        "timeline": "Not specified",
+        "delivery_time": "10",
+        "status": "Submitted",
+        "submitted_at": "2025-08-03",
+        "created_at": "2025-08-03",
+        "score": 76,
+        "fit_score": 76,
+        "notes": "test",
+        "strengths": [
+            "Quality service"
+        ]
+    }
+]

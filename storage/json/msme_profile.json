@@ -1,0 +1,36 @@
+{
+  "business_name": "TechSolutions Manufacturing Pvt Ltd",
+  "location": "Mumbai, Maharashtra",
+  "compliance_rating": "A+",
+  "pan_verified": true,
+  "gstin_verified": true,
+  "udyam_verified": true,
+  "turnover_data": [
+    {"month": "Jan 2024", "turnover": 210000, "bank_credits": 180000},
+    {"month": "Feb 2024", "turnover": 225000, "bank_credits": 195000},
+    {"month": "Mar 2024", "turnover": 240000, "bank_credits": 210000},
+    {"month": "Apr 2024", "turnover": 235000, "bank_credits": 205000},
+    {"month": "May 2024", "turnover": 250000, "bank_credits": 220000},
+    {"month": "Jun 2024", "turnover": 265000, "bank_credits": 235000},
+    {"month": "Jul 2024", "turnover": 280000, "bank_credits": 250000},
+    {"month": "Aug 2024", "turnover": 295000, "bank_credits": 265000},
+    {"month": "Sep 2024", "turnover": 310000, "bank_credits": 280000},
+    {"month": "Oct 2024", "turnover": 325000, "bank_credits": 295000},
+    {"month": "Nov 2024", "turnover": 340000, "bank_credits": 310000},
+    {"month": "Dec 2024", "turnover": 355000, "bank_credits": 325000}
+  ],
+  "cash_flow_data": [
+    {"month": "Jul 2024", "cash_in": 280000, "cash_out": 220000, "balance": 60000},
+    {"month": "Aug 2024", "cash_in": 295000, "cash_out": 235000, "balance": 120000},
+    {"month": "Sep 2024", "cash_in": 310000, "cash_out": 250000, "balance": 180000},
+    {"month": "Oct 2024", "cash_in": 325000, "cash_out": 265000, "balance": 240000},
+    {"month": "Nov 2024", "cash_in": 340000, "cash_out": 280000, "balance": 300000},
+    {"month": "Dec 2024", "cash_in": 355000, "cash_out": 295000, "balance": 360000}
+  ],
+  "gst_filing": [
+    {"period": "Jul-Sep 2024", "filing_date": "2024-10-20", "status": "Filed", "amount": 45000},
+    {"period": "Apr-Jun 2024", "filing_date": "2024-07-20", "status": "Filed", "amount": 42000},
+    {"period": "Jan-Mar 2024", "filing_date": "2024-04-20", "status": "Filed", "amount": 38000},
+    {"period": "Oct-Dec 2023", "filing_date": "2024-01-20", "status": "Filed", "amount": 35000}
+  ]
+} 

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "MSME001",
+    "turnover": 2500000,
+    "compliance_rating": "A+",
+    "stability_score": 85,
+    "location": "Mumbai, Maharashtra",
+    "industry": "Manufacturing"
+  },
+  {
+    "id": "MSME002", 
+    "turnover": 1800000,
+    "compliance_rating": "A",
+    "stability_score": 78,
+    "location": "Delhi, NCR",
+    "industry": "Services"
+  },
+  {
+    "id": "MSME003",
+    "turnover": 3200000,
+    "compliance_rating": "A+",
+    "stability_score": 92,
+    "location": "Bangalore, Karnataka",
+    "industry": "Technology"
+  },
+  {
+    "id": "MSME004",
+    "turnover": 1200000,
+    "compliance_rating": "B+",
+    "stability_score": 65,
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Manufacturing"
+  },
+  {
+    "id": "MSME005",
+    "turnover": 4500000,
+    "compliance_rating": "A+",
+    "stability_score": 88,
+    "location": "Pune, Maharashtra",
+    "industry": "Services"
+  }
+] 
